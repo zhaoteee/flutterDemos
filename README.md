@@ -5,9 +5,9 @@
 - [GSYFlutterDemo](https://github.com/CarGuo/GSYFlutterDemo)
 - [百姓生活app(部分)](https://jspang.com/posts/2019/03/01/flutter-shop.html)
 
-<img src="https://github.com/zhaoteee/flutterDemos/blob/master/list.jpg" width="426px"/>
+<img src="https://github.com/zhaoteee/flutterDemos/blob/master/list.png" width="426px"/>
 
-<img src="https://github.com/zhaoteee/flutterDemos/blob/master/l1.jpg" width="426px"/>
+<img src="https://github.com/zhaoteee/flutterDemos/blob/master/l1.png" width="426px"/>
 
-<img src="https://github.com/zhaoteee/flutterDemos/blob/master/l2.jpg" width="426px"/>
+<img src="https://github.com/zhaoteee/flutterDemos/blob/master/l2.png" width="426px"/>
 
