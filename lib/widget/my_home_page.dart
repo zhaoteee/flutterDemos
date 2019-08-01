@@ -33,6 +33,7 @@ import 'package:gsy_flutter_demo/widget/tick_click_demo_page.dart';
 import 'package:gsy_flutter_demo/widget/transform_demo_page.dart';
 import 'package:gsy_flutter_demo/widget/verification_code_input_demo_page.dart';
 import 'package:gsy_flutter_demo/widget/viewpager_demo_page.dart';
+import 'package:gsy_flutter_demo/widget/back_delay.dart';
 
 class MyHomePage extends StatefulWidget {
   MyHomePage({Key key, this.title}) : super(key: key);
@@ -113,6 +114,7 @@ const routerName = [
   "Blur 例子",
   "动画3 例子",
   "时钟动画 例子",
+  "返回拦截 例子"
 ];
 
 Map<String, WidgetBuilder> routers = {
@@ -209,8 +211,11 @@ Map<String, WidgetBuilder> routers = {
   "widget/anima_container": (context) {
     return new AnimationContainerDemoPage();
   },
-  "widget/tick": (context) {
+  "widget/back": (context) {
     return new TickClickDemoPage();
+  },
+  "widget/tick": (context) {
+    return new WillPopScopeTestRoute();
   },
 
 };
