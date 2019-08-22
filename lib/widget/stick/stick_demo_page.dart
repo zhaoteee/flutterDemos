@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:gsy_flutter_demo/widget/stick/stick_widget.dart';
+import 'package:flutter_demos/widget/stick/stick_widget.dart';
 
 class StickDemoPage extends StatefulWidget {
   @override

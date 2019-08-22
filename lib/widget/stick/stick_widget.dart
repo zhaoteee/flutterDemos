@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:gsy_flutter_demo/widget/stick/stick_render.dart';
+import 'package:flutter_demos/widget/stick/stick_render.dart';
 
 class StickWidget extends MultiChildRenderObjectWidget {
   ///顺序添加 stickHeader 和 stickContent

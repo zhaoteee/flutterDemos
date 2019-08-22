@@ -1,10 +1,10 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:gsy_flutter_demo/shop/home_page.dart';
-import 'package:gsy_flutter_demo/shop/category_page.dart';
-import 'package:gsy_flutter_demo/shop/cart_page.dart';
-import 'package:gsy_flutter_demo/shop/member_page.dart';
+import 'package:flutter_demos/shop/home_page.dart';
+import 'package:flutter_demos/shop/category_page.dart';
+import 'package:flutter_demos/shop/cart_page.dart';
+import 'package:flutter_demos/shop/member_page.dart';
 
 
 class IndexPage extends StatefulWidget {

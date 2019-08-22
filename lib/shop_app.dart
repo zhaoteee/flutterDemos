@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:gsy_flutter_demo/shop/index_page.dart';
+import 'package:flutter_demos/shop/index_page.dart';
 
 class ShopApp extends StatefulWidget {
   @override

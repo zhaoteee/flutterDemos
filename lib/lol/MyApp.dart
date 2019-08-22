@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:gsy_flutter_demo/lol/utils/router.dart' as router;
+import 'package:flutter_demos/lol/utils/router.dart' as router;
 import 'dart:io';
 import 'package:flutter/services.dart';
 

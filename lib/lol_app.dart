@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:gsy_flutter_demo/lol/MyApp.dart';
+import 'package:flutter_demos/lol/MyApp.dart';
 
 class LolApp extends StatefulWidget {
   @override

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 
-import 'package:gsy_flutter_demo/widget/my_home_page.dart';
-import 'package:gsy_flutter_demo/widget/category_page.dart';
+import 'package:flutter_demos/widget/my_home_page.dart';
+import 'package:flutter_demos/widget/category_page.dart';
 
 class TestApp extends StatefulWidget {
   @override

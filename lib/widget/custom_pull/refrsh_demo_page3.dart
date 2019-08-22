@@ -2,7 +2,7 @@ import 'dart:math';
 
 import 'package:flutter/cupertino.dart' as IOS;
 import 'package:flutter/material.dart';
-import 'package:gsy_flutter_demo/widget/custom_pull/gsy_refresh_sliver.dart';
+import 'package:flutter_demos/widget/custom_pull/gsy_refresh_sliver.dart';
 
 ///刷新演示3
 ///在刷新2的基础上，支持了放手位置时需要刷新才触发

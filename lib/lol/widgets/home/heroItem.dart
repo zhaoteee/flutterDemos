@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:gsy_flutter_demo/lol/models/heroSimple.dart';
-import 'package:gsy_flutter_demo/lol/widgets/home/heroItemAvatar.dart';
-import 'package:gsy_flutter_demo/lol/utils/utils.dart';
+import 'package:flutter_demos/lol/models/heroSimple.dart';
+import 'package:flutter_demos/lol/widgets/home/heroItemAvatar.dart';
+import 'package:flutter_demos/lol/utils/utils.dart';
 
 class HeroItem extends StatelessWidget {
   final HeroSimple data;

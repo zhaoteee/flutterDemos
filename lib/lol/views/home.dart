@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:gsy_flutter_demo/lol/views/homeList.dart';
-import 'package:gsy_flutter_demo/lol/utils/api.dart' as api;
-import 'package:gsy_flutter_demo/lol/utils/constant.dart';
-import 'package:gsy_flutter_demo/lol/utils/utils.dart';
+import 'package:flutter_demos/lol/views/homeList.dart';
+import 'package:flutter_demos/lol/utils/api.dart' as api;
+import 'package:flutter_demos/lol/utils/constant.dart';
+import 'package:flutter_demos/lol/utils/utils.dart';
 
 class HomeView extends StatefulWidget {
   HomeView({Key key}) : super(key: key);

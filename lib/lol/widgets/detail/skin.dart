@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:gsy_flutter_demo/lol/utils/utils.dart';
+import 'package:flutter_demos/lol/utils/utils.dart';
 
 class Skins extends StatelessWidget {
   final List imgList;

@@ -1,6 +1,6 @@
 /*___Generated_by_IDEA___*/
 
-package com.gsy.shuyu.gsy_flutter_demo;
+package com.zcckj.zhaote.flutter_demos;
 
 /* This stub is only used by the IDE. It is NOT the Manifest class actually packed into the APK */
 public final class Manifest {

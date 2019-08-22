@@ -1,4 +1,4 @@
-package com.gsy.shuyu.gsy_flutter_demo
+package com.zcckj.zhaote.flutter_demos
 
 import android.os.Bundle
 

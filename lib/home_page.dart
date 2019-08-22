@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'test_app.dart';
 import 'shop_app.dart';
 import 'lol_app.dart';
+import 'dzg_app.dart';
 
 class HomePage extends StatelessWidget {
   @override
@@ -37,7 +38,8 @@ class HomePage extends StatelessWidget {
 const routerName = [
   "测试app",
   "商城app",
-  "英雄联盟app"
+  "英雄联盟app",
+  "店掌柜app"
 ];
 
 Map<String, WidgetBuilder> routers = {
@@ -49,5 +51,8 @@ Map<String, WidgetBuilder> routers = {
   },
   "app/lol": (context) {
     return LolApp();
+  },
+  "app/dzg": (context) {
+    return DzgApp();
   },
 };

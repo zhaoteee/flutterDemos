@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:gsy_flutter_demo/lol/views/home.dart';
-import 'package:gsy_flutter_demo/lol/views/heroDetail.dart';
-import 'package:gsy_flutter_demo/lol/views/imagePreview.dart';
+import 'package:flutter_demos/lol/views/home.dart';
+import 'package:flutter_demos/lol/views/heroDetail.dart';
+import 'package:flutter_demos/lol/views/imagePreview.dart';
 
 Route<dynamic> generateRoute(RouteSettings settings) {
   switch (settings.name) {

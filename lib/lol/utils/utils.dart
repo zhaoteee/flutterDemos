@@ -1,4 +1,4 @@
-import 'package:gsy_flutter_demo/lol/utils/constant.dart' as Constant;
+import 'package:flutter_demos/lol/utils/constant.dart' as Constant;
 
 class Utils {
   // 英雄标签

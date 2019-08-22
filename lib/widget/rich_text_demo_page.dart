@@ -1,6 +1,6 @@
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
-import 'package:gsy_flutter_demo/widget/rich/real_rich_text.dart';
+import 'package:flutter_demos/widget/rich/real_rich_text.dart';
 
 class RichTextDemoPage extends StatefulWidget {
   @override

@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:gsy_flutter_demo/lol/utils/api.dart' as api;
-import 'package:gsy_flutter_demo/lol/models/heroSimple.dart';
-import 'package:gsy_flutter_demo/lol/models/heroDetail.dart';
-import 'package:gsy_flutter_demo/lol/utils/utils.dart';
-import 'package:gsy_flutter_demo/lol/widgets/detail/detailItem.dart';
-import 'package:gsy_flutter_demo/lol/widgets/detail/skin.dart';
-import 'package:gsy_flutter_demo/lol/widgets/detail/info.dart';
+import 'package:flutter_demos/lol/utils/api.dart' as api;
+import 'package:flutter_demos/lol/models/heroSimple.dart';
+import 'package:flutter_demos/lol/models/heroDetail.dart';
+import 'package:flutter_demos/lol/utils/utils.dart';
+import 'package:flutter_demos/lol/widgets/detail/detailItem.dart';
+import 'package:flutter_demos/lol/widgets/detail/skin.dart';
+import 'package:flutter_demos/lol/widgets/detail/info.dart';
 
 class HeroDetail extends StatefulWidget {
   final HeroSimple heroSimple;
