@@ -38,11 +38,13 @@ class _CategoryPageState extends State<CategoryPage> {
   }
 
   void _getCategory() async {
+    print('开始获取分类数据');
     await request('getCategory').then((val) {
       var data = json.decode(val.toString());
       CategoryBigListModel category = CategoryBigListModel.fromJson(data['data']);
-      list = category.data;
-      print(list);
+      setState(() {
+        list = category.data;
+      });
     });
   }
 
